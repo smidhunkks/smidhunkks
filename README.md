@@ -19,7 +19,7 @@
 
 <!---- 🔭 I’m currently working on Libman - Library Management App--->
 
-- 🌱 I’m currently learning Flutter, React 
+- 🌱 I’m currently learning Flutter, Next.JS
 
 - 👯 I’m looking to collaborate on Projects 
 
